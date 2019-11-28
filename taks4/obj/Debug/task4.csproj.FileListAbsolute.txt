@@ -1,0 +1,5 @@
+D:\Projects\Example_1\taks4\bin\Debug\taks4.exe.config
+D:\Projects\Example_1\taks4\bin\Debug\taks4.exe
+D:\Projects\Example_1\taks4\bin\Debug\taks4.pdb
+D:\Projects\Example_1\taks4\obj\Debug\taks4.exe
+D:\Projects\Example_1\taks4\obj\Debug\taks4.pdb
