@@ -1,0 +1,5 @@
+D:\Projects\Example_1\task2\bin\Debug\task2.exe.config
+D:\Projects\Example_1\task2\bin\Debug\task2.exe
+D:\Projects\Example_1\task2\bin\Debug\task2.pdb
+D:\Projects\Example_1\task2\obj\Debug\task2.exe
+D:\Projects\Example_1\task2\obj\Debug\task2.pdb
